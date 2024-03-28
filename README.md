@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Payment app UI concept design](https://www.linkedin.com/posts/itskunalkoley_ux-ui-design-activity-7176594718242271233-gqCq?utm_source=share&utm_medium=member_desktop)
 
-- 🌱 I’m currently learning **Frontend development**
+
 
 - 📫 How to reach me **Kunalkoley422@gmail.com**
 
