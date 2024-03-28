@@ -27,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskunalkoley&show_icons=true&locale=en&layout=compact" alt="itskunalkoley" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itskunalkoley&show_icons=true&locale=en" alt="itskunalkoley" /></p>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
